@@ -1,0 +1,11 @@
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\bin\Release\login.exe.config
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\bin\Release\login.exe
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\bin\Release\login.pdb
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.csproj.AssemblyReference.cache
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.csproj.SuggestedBindingRedirects.cache
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.Form1.resources
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.Properties.Resources.resources
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.csproj.GenerateResource.cache
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.csproj.CoreCompileInputs.cache
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.exe
+C:\Users\askvo\Desktop\code\emailclient\login\login\login\obj\Release\login.pdb
